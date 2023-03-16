@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    background-color: aliceblue;
+    border-bottom: solid 1px black;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;    
+}
+
+.menu li {
+    font-weight: 600;
+    padding: 5px;
+    text-align: center;
+}
+
+.logo{
+    width: 3rem;
+    height: 3rem;
+}
